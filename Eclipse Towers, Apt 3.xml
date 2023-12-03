@@ -131,19 +131,19 @@
           <Heading>4.0855</Heading>
           <InteractDistance>1</InteractDistance>
           <CameraPosition>
-            <X>-792.0071</X>
-            <Y>336.1057</Y>
-            <Z>203.2856</Z>
+            <X>-792.7014</X>
+            <Y>336.5643</Y>
+            <Z>203.0321</Z>
           </CameraPosition>
           <CameraDirection>
-            <X>-0.79334</X>
-            <Y>0.5278119</Y>
-            <Z>-0.3033582</Z>
+            <X>-0.7737222</X>
+            <Y>0.5073887</Y>
+            <Z>-0.3793557</Z>
           </CameraDirection>
           <CameraRotation>
-            <Pitch>-17.65942</Pitch>
-            <Roll>2.41919E-05</Roll>
-            <Yaw>56.36404</Yaw>
+            <Pitch>-22.29378</Pitch>
+            <Roll>-2.122321E-05</Roll>
+            <Yaw>56.74408</Yaw>
           </CameraRotation>
           <ButtonPromptText>Sleep</ButtonPromptText>
           <AutoCamera>true</AutoCamera>
@@ -194,19 +194,19 @@
           <Heading>97.70668</Heading>
           <InteractDistance>2</InteractDistance>
           <CameraPosition>
-            <X>-779.6238</X>
-            <Y>329.0052</Y>
-            <Z>209.2013</Z>
+            <X>-781.3085</X>
+            <Y>328.6723</Y>
+            <Z>209.324</Z>
           </CameraPosition>
           <CameraDirection>
-            <X>-0.9122296</X>
-            <Y>0.3587731</Y>
-            <Z>-0.1977854</Z>
+            <X>-0.7612467</X>
+            <Y>0.5483233</Y>
+            <Z>-0.3461864</Z>
           </CameraDirection>
           <CameraRotation>
-            <Pitch>-11.40749</Pitch>
-            <Roll>4.354898E-06</Roll>
-            <Yaw>68.53065</Yaw>
+            <Pitch>-20.25423</Pitch>
+            <Roll>1.274064E-05</Roll>
+            <Yaw>54.23493</Yaw>
           </CameraRotation>
           <ButtonPromptText>Access Items</ButtonPromptText>
           <AutoCamera>true</AutoCamera>
@@ -228,19 +228,19 @@
           <Heading>270.0498</Heading>
           <InteractDistance>2</InteractDistance>
           <CameraPosition>
-            <X>-790.6629</X>
-            <Y>331.9439</Y>
-            <Z>202.6162</Z>
+            <X>-791.5106</X>
+            <Y>331.8639</Y>
+            <Z>202.628</Z>
           </CameraPosition>
           <CameraDirection>
-            <X>-0.9804831</X>
-            <Y>0.008067176</Y>
-            <Z>-0.1964376</Z>
+            <X>-0.9758344</X>
+            <Y>0.01968939</Y>
+            <Z>-0.2176224</Z>
           </CameraDirection>
           <CameraRotation>
-            <Pitch>-11.32872</Pitch>
-            <Roll>2.959832E-05</Roll>
-            <Yaw>89.52859</Yaw>
+            <Pitch>-12.56942</Pitch>
+            <Roll>-1.448785E-06</Roll>
+            <Yaw>88.8441</Yaw>
           </CameraRotation>
           <ButtonPromptText>Change Outfit</ButtonPromptText>
           <AutoCamera>true</AutoCamera>
