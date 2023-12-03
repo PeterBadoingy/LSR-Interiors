@@ -6,7 +6,7 @@
         <Z>0</Z>
       </InternalInteriorCoordinates>
       <Name>Eclipse Towers, Apt 3</Name>
-      <IsMPOnly>false</IsMPOnly>
+      <IsMPOnly>true</IsMPOnly>
       <IsSPOnly>false</IsSPOnly>
       <IsTeleportEntry>true</IsTeleportEntry>
       <DisabledInteriorCoords>
