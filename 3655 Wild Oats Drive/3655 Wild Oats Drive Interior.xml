@@ -35,7 +35,7 @@
             <Y>497.3787</Y>
             <Z>137.667</Z>
           </Position>
-          <Heading>192.5397</Heading>
+          <Heading>15.29212</Heading>
           <InteractDistance>2</InteractDistance>
           <CameraPosition>
             <X>0</X>
@@ -54,7 +54,7 @@
           </CameraRotation>
           <ButtonPromptText>Exit</ButtonPromptText>
           <AutoCamera>true</AutoCamera>
-          <UseNavmesh>true</UseNavmesh>
+          <UseNavmesh>false</UseNavmesh>
           <WithWarp>false</WithWarp>
         </InteriorInteract>
         <InteriorInteract xsi:type="StandardInteriorInteract">
@@ -115,9 +115,19 @@
           <UseNavmesh>false</UseNavmesh>
           <WithWarp>false</WithWarp>
           <StartAnimations />
-          <LoopAnimations />
+          <LoopAnimations>
+            <AnimationBundle>
+              <Dictionary>missbigscore1switch_trevor_piss</Dictionary>
+              <Name>piss_loop</Name>
+              <Flags>1</Flags>
+              <BlendIn>2</BlendIn>
+              <BlendOut>-2</BlendOut>
+              <Time>-1</Time>
+              <Gender>U</Gender>
+            </AnimationBundle>
+          </LoopAnimations>
           <EndAnimations />
-          <IsScenario>true</IsScenario>
+          <IsScenario>false</IsScenario>
         </InteriorInteract>
       </InteractPoints>
             <RestInteracts>
