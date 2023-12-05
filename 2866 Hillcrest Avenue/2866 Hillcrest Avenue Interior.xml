@@ -263,7 +263,7 @@
             <Roll>-1.472033E-05</Roll>
             <Yaw>110.797</Yaw>
           </CameraRotation>
-          <ButtonPromptText>Weapons Locker</ButtonPromptText>
+          <ButtonPromptText>Cash Drawer</ButtonPromptText>
           <AutoCamera>true</AutoCamera>
           <UseNavmesh>false</UseNavmesh>
           <WithWarp>false</WithWarp>
@@ -295,7 +295,7 @@
             <Roll>6.433049E-07</Roll>
             <Yaw>178.9051</Yaw>
           </CameraRotation>
-          <ButtonPromptText>Cash Drawer</ButtonPromptText>
+          <ButtonPromptText>Weapons Locker</ButtonPromptText>
           <AutoCamera>true</AutoCamera>
           <UseNavmesh>false</UseNavmesh>
           <WithWarp>false</WithWarp>
