@@ -26,7 +26,3 @@ Stilt/Houses
 -------------------------
 
 Apartments
-
-4 Integrity Way 
-
-Apt 35 - WIP
