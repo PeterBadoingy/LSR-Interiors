@@ -1,7 +1,7 @@
 # LSR-Interiors
 LSR Interiors residence setups
 
-Current WIP
+Stilt/Houses
 
 2044 North Conker Avenue - Done
 
@@ -22,3 +22,9 @@ Current WIP
 3655 Wild Oats Drive - Done
 
 3677 Whispymound Drive - Done
+
+-------------------------
+
+Apartments
+
+4 Integrity Way Apt 28 MP - WIP
