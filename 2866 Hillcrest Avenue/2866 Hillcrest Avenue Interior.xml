@@ -15,7 +15,9 @@
         <Z>0</Z>
       </DisabledInteriorCoords>
       <Doors />
-      <RequestIPLs />
+      <RequestIPLs>
+        <string>apa_stilt_ch2_09c_int</string>
+      </RequestIPLs>
       <RemoveIPLs />
       <InteriorSets />
       <InteriorEgressPosition>
