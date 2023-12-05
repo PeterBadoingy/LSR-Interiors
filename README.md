@@ -15,6 +15,6 @@ Current WIP
 
 2874 Hillcrest Avenue - Done
 
-3677 Whispymound Drive - WIP
+3677 Whispymound Drive - Done
 
-2133 Mad Wayne Thunder - TBD
+2133 Mad Wayne Thunder - WIP
