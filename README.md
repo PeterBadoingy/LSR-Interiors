@@ -11,9 +11,9 @@ Current WIP
 
 2862 Hillcrest Avenue - Done
 
-2868 Hillcrest Avenue - WIP
+2868 Hillcrest Avenue - Done
 
-2874 Hillcrest Avenue - TBD
+2874 Hillcrest Avenue - WIP
 
 2677 Whispymound Drive - TBD
 
