@@ -77,8 +77,8 @@
       <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
       <RentalDays>28</RentalDays>
       <RentalFee>5000</RentalFee>
-      <PurchasePrice>727000</PurchasePrice>
-      <SalesPrice>363500</SalesPrice>
+      <PurchasePrice>705000</PurchasePrice>
+      <SalesPrice>352500</SalesPrice>
       <HasHeaderApartmentBuilding>false</HasHeaderApartmentBuilding>
       <DisableInteractAfterPurchase>false</DisableInteractAfterPurchase>
       <ButtonPromptText>Inquire About 2862 Hillcrest Avenue</ButtonPromptText>
