@@ -17,4 +17,4 @@ Current WIP
 
 3677 Whispymound Drive - Done
 
-2113 Mad Wayne Thunder - WIP
+2113 Mad Wayne Thunder - Done
