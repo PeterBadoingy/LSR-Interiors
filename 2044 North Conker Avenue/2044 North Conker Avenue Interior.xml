@@ -89,11 +89,11 @@
         <InteriorInteract xsi:type="AnimationInteract">
           <Name>2044NorthConkToilet1</Name>
           <Position>
-            <X>341.2922</X>
-            <Y>427.8438</Y>
+            <X>341.0748</X>
+            <Y>428.4019</Y>
             <Z>145.5709</Z>
           </Position>
-          <Heading>206.6838</Heading>
+          <Heading>27.26782</Heading>
           <InteractDistance>2</InteractDistance>
           <CameraPosition>
             <X>338.8505</X>
@@ -117,8 +117,51 @@
           <StartAnimations />
           <LoopAnimations>
             <AnimationBundle>
-              <Dictionary>missbigscore1switch_trevor_piss</Dictionary>
-              <Name>piss_loop</Name>
+              <Dictionary>timetable@trevor@on_the_toilet</Dictionary>
+              <Name>trevonlav_backedup</Name>
+              <Flags>1</Flags>
+              <BlendIn>2</BlendIn>
+              <BlendOut>-2</BlendOut>
+              <Time>-1</Time>
+              <Gender>U</Gender>
+            </AnimationBundle>
+          </LoopAnimations>
+          <EndAnimations />
+          <IsScenario>false</IsScenario>
+        </InteriorInteract>
+        <InteriorInteract xsi:type="AnimationInteract">
+          <Name>2044NorthConkWash1</Name>
+          <Position>
+            <X>342.0872</X>
+            <Y>429.6662</Y>
+            <Z>145.5831</Z>
+          </Position>
+          <Heading>297.9041</Heading>
+          <InteractDistance>2</InteractDistance>
+          <CameraPosition>
+            <X>341.1041</X>
+            <Y>430.5693</Y>
+            <Z>146.7828</Z>
+          </CameraPosition>
+          <CameraDirection>
+            <X>0.7834551</X>
+            <Y>-0.2965981</Y>
+            <Z>-0.5461022</Z>
+          </CameraDirection>
+          <CameraRotation>
+            <Pitch>-33.10002</Pitch>
+            <Roll>0</Roll>
+            <Yaw>-110.7355</Yaw>
+          </CameraRotation>
+          <ButtonPromptText>Use Sink</ButtonPromptText>
+          <AutoCamera>true</AutoCamera>
+          <UseNavmesh>false</UseNavmesh>
+          <WithWarp>false</WithWarp>
+          <StartAnimations />
+          <LoopAnimations>
+            <AnimationBundle>
+              <Dictionary>switch@michael@wash_face</Dictionary>
+              <Name>loop_michael</Name>
               <Flags>1</Flags>
               <BlendIn>2</BlendIn>
               <BlendOut>-2</BlendOut>
@@ -218,12 +261,44 @@
             <Roll>5.758902E-06</Roll>
             <Yaw>-31.94286</Yaw>
           </CameraRotation>
-          <ButtonPromptText>Access Items</ButtonPromptText>
+          <ButtonPromptText>Weapons Locker</ButtonPromptText>
           <AutoCamera>true</AutoCamera>
           <UseNavmesh>false</UseNavmesh>
           <WithWarp>false</WithWarp>
           <CanAccessItems>false</CanAccessItems>
           <CanAccessWeapons>true</CanAccessWeapons>
+          <CanAccessCash>false</CanAccessCash>
+        </InventoryInteract>
+        <InventoryInteract>
+          <Name>2044NorthConkInventory3</Name>
+          <Position>
+            <X>328.0712</X>
+            <Y>429.7769</Y>
+            <Z>145.5709</Z>
+          </Position>
+          <Heading>25.39666</Heading>
+          <InteractDistance>2</InteractDistance>
+          <CameraPosition>
+            <X>330.4237</X>
+            <Y>429.8496</Y>
+            <Z>146.6582</Z>
+          </CameraPosition>
+          <CameraDirection>
+            <X>-0.9210001</X>
+            <Y>0.1294544</Y>
+            <Z>-0.3674239</Z>
+          </CameraDirection>
+          <CameraRotation>
+            <Pitch>-21.55683</Pitch>
+            <Roll>-3.25884E-05</Roll>
+            <Yaw>81.99901</Yaw>
+          </CameraRotation>
+          <ButtonPromptText>Cash Drawer</ButtonPromptText>
+          <AutoCamera>true</AutoCamera>
+          <UseNavmesh>false</UseNavmesh>
+          <WithWarp>false</WithWarp>
+          <CanAccessItems>false</CanAccessItems>
+          <CanAccessWeapons>false</CanAccessWeapons>
           <CanAccessCash>true</CanAccessCash>
         </InventoryInteract>
       </InventoryInteracts>
