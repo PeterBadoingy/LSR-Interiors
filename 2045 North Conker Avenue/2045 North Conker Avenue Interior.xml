@@ -89,12 +89,12 @@
         <InteriorInteract xsi:type="AnimationInteract">
           <Name>2045NorthConkToilet1</Name>
           <Position>
-            <X>379.441</X>
-            <Y>416.4362</Y>
-            <Z>142.1003</Z>
+            <X>378.9039</X>
+            <Y>416.6391</Y>
+            <Z>142.1002</Z>
           </Position>
-          <Heading>259.2629</Heading>
-          <InteractDistance>2</InteractDistance>
+          <Heading>75.14934</Heading>
+          <InteractDistance>1</InteractDistance>
           <CameraPosition>
             <X>376.517</X>
             <Y>415.0572</Y>
@@ -117,8 +117,51 @@
           <StartAnimations />
           <LoopAnimations>
             <AnimationBundle>
-              <Dictionary>missbigscore1switch_trevor_piss</Dictionary>
-              <Name>piss_loop</Name>
+              <Dictionary>timetable@trevor@on_the_toilet</Dictionary>
+              <Name>trevonlav_backedup</Name>
+              <Flags>1</Flags>
+              <BlendIn>2</BlendIn>
+              <BlendOut>-2</BlendOut>
+              <Time>-1</Time>
+              <Gender>U</Gender>
+            </AnimationBundle>
+          </LoopAnimations>
+          <EndAnimations />
+          <IsScenario>false</IsScenario>
+        </InteriorInteract>
+        <InteriorInteract xsi:type="AnimationInteract">
+          <Name>2045NorthConkWash1</Name>
+          <Position>
+            <X>378.6626</X>
+            <Y>418.2704</Y>
+            <Z>142.1121</Z>
+          </Position>
+          <Heading>349.2263</Heading>
+          <InteractDistance>2</InteractDistance>
+          <CameraPosition>
+            <X>377.1396</X>
+            <Y>418.1769</Y>
+            <Z>143.0666</Z>
+          </CameraPosition>
+          <CameraDirection>
+            <X>0.9048918</X>
+            <Y>0.2368309</Y>
+            <Z>-0.3536693</Z>
+          </CameraDirection>
+          <CameraRotation>
+            <Pitch>-20.71191</Pitch>
+            <Roll>3.605422E-05</Roll>
+            <Yaw>-75.33336</Yaw>
+          </CameraRotation>
+          <ButtonPromptText>Use Sink</ButtonPromptText>
+          <AutoCamera>true</AutoCamera>
+          <UseNavmesh>false</UseNavmesh>
+          <WithWarp>false</WithWarp>
+          <StartAnimations />
+          <LoopAnimations>
+            <AnimationBundle>
+              <Dictionary>switch@michael@wash_face</Dictionary>
+              <Name>loop_michael</Name>
               <Flags>1</Flags>
               <BlendIn>2</BlendIn>
               <BlendOut>-2</BlendOut>
@@ -218,12 +261,44 @@
             <Roll>3.142567E-05</Roll>
             <Yaw>-152.6841</Yaw>
           </CameraRotation>
-          <ButtonPromptText>Access Items</ButtonPromptText>
+          <ButtonPromptText>Weapons Locker</ButtonPromptText>
           <AutoCamera>true</AutoCamera>
           <UseNavmesh>false</UseNavmesh>
           <WithWarp>false</WithWarp>
           <CanAccessItems>false</CanAccessItems>
           <CanAccessWeapons>true</CanAccessWeapons>
+          <CanAccessCash>false</CanAccessCash>
+        </InventoryInteract>
+        <InventoryInteract>
+          <Name>2045NorthConkInventory3</Name>
+          <Position>
+            <X>369.2481</X>
+            <Y>407.7146</Y>
+            <Z>142.1003</Z>
+          </Position>
+          <Heading>78.41063</Heading>
+          <InteractDistance>2</InteractDistance>
+          <CameraPosition>
+            <X>370.7724</X>
+            <Y>409.3423</Y>
+            <Z>143.0502</Z>
+          </CameraPosition>
+          <CameraDirection>
+            <X>-0.6611844</X>
+            <Y>-0.662681</Y>
+            <Z>-0.3516944</Z>
+          </CameraDirection>
+          <CameraRotation>
+            <Pitch>-20.59099</Pitch>
+            <Roll>3.465749E-05</Roll>
+            <Yaw>135.0648</Yaw>
+          </CameraRotation>
+          <ButtonPromptText>Cash Drawer</ButtonPromptText>
+          <AutoCamera>true</AutoCamera>
+          <UseNavmesh>false</UseNavmesh>
+          <WithWarp>false</WithWarp>
+          <CanAccessItems>false</CanAccessItems>
+          <CanAccessWeapons>false</CanAccessWeapons>
           <CanAccessCash>true</CanAccessCash>
         </InventoryInteract>
       </InventoryInteracts>
