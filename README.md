@@ -31,6 +31,4 @@ Apartments
 
 Apt 28 MP - WIP
 
-Apt 30 MP - WIP
-
 Apt 35 - WIP
