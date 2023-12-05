@@ -89,26 +89,26 @@
         <InteriorInteract xsi:type="AnimationInteract">
           <Name>3655WildOatToilet1</Name>
           <Position>
-            <X>-164.9799</X>
-            <Y>494.3438</Y>
-            <Z>133.8438</Z>
+            <X>-165.4806</X>
+            <Y>494.2761</Y>
+            <Z>133.8437</Z>
           </Position>
-          <Heading>281.0751</Heading>
+          <Heading>97.44626</Heading>
           <InteractDistance>2</InteractDistance>
           <CameraPosition>
-            <X>-166.7136</X>
-            <Y>491.73</Y>
-            <Z>135.3105</Z>
+            <X>-166.0776</X>
+            <Y>492.4846</Y>
+            <Z>134.838</Z>
           </CameraPosition>
           <CameraDirection>
-            <X>0.5075332</X>
-            <Y>0.817638</Y>
-            <Z>-0.2718054</Z>
+            <X>0.5752447</X>
+            <Y>0.7223234</Y>
+            <Z>-0.3838522</Z>
           </CameraDirection>
           <CameraRotation>
-            <Pitch>-15.77173</Pitch>
-            <Roll>-6.653801E-06</Roll>
-            <Yaw>-31.82915</Yaw>
+            <Pitch>-22.5725</Pitch>
+            <Roll>-6.2873E-05</Roll>
+            <Yaw>-38.53316</Yaw>
           </CameraRotation>
           <ButtonPromptText>Use Toilet</ButtonPromptText>
           <AutoCamera>true</AutoCamera>
@@ -117,8 +117,51 @@
           <StartAnimations />
           <LoopAnimations>
             <AnimationBundle>
-              <Dictionary>missbigscore1switch_trevor_piss</Dictionary>
-              <Name>piss_loop</Name>
+              <Dictionary>timetable@trevor@on_the_toilet</Dictionary>
+              <Name>trevonlav_backedup</Name>
+              <Flags>1</Flags>
+              <BlendIn>2</BlendIn>
+              <BlendOut>-2</BlendOut>
+              <Time>-1</Time>
+              <Gender>U</Gender>
+            </AnimationBundle>
+          </LoopAnimations>
+          <EndAnimations />
+          <IsScenario>false</IsScenario>
+        </InteriorInteract>
+        <InteriorInteract xsi:type="AnimationInteract">
+          <Name>3655WildOatWash1</Name>
+          <Position>
+            <X>-166.4261</X>
+            <Y>495.6567</Y>
+            <Z>133.856</Z>
+          </Position>
+          <Heading>14.26232</Heading>
+          <InteractDistance>2</InteractDistance>
+          <CameraPosition>
+            <X>-167.8158</X>
+            <Y>494.8953</Y>
+            <Z>135.0636</Z>
+          </CameraPosition>
+          <CameraDirection>
+            <X>0.5997202</X>
+            <Y>0.5717459</Y>
+            <Z>-0.5598591</Z>
+          </CameraDirection>
+          <CameraRotation>
+            <Pitch>-34.04605</Pitch>
+            <Roll>-1.442554E-05</Roll>
+            <Yaw>-46.36795</Yaw>
+          </CameraRotation>
+          <ButtonPromptText>Use Sink</ButtonPromptText>
+          <AutoCamera>true</AutoCamera>
+          <UseNavmesh>false</UseNavmesh>
+          <WithWarp>false</WithWarp>
+          <StartAnimations />
+          <LoopAnimations>
+            <AnimationBundle>
+              <Dictionary>switch@michael@wash_face</Dictionary>
+              <Name>loop_michael</Name>
               <Flags>1</Flags>
               <BlendIn>2</BlendIn>
               <BlendOut>-2</BlendOut>
@@ -218,12 +261,44 @@
             <Roll>-3.385385E-05</Roll>
             <Yaw>53.42225</Yaw>
           </CameraRotation>
-          <ButtonPromptText>Access Items</ButtonPromptText>
+          <ButtonPromptText>Weapons Locker</ButtonPromptText>
           <AutoCamera>true</AutoCamera>
           <UseNavmesh>false</UseNavmesh>
           <WithWarp>false</WithWarp>
           <CanAccessItems>false</CanAccessItems>
           <CanAccessWeapons>true</CanAccessWeapons>
+          <CanAccessCash>false</CanAccessCash>
+        </InventoryInteract>
+        <InventoryInteract>
+          <Name>3655WildOatInventory3</Name>
+          <Position>
+            <X>-170.2204</X>
+            <Y>482.1508</Y>
+            <Z>133.8774</Z>
+          </Position>
+          <Heading>103.0053</Heading>
+          <InteractDistance>2</InteractDistance>
+          <CameraPosition>
+            <X>-169.5488</X>
+            <Y>484.9105</Y>
+            <Z>135.0197</Z>
+          </CameraPosition>
+          <CameraDirection>
+            <X>-0.3606971</X>
+            <Y>-0.8853013</Y>
+            <Z>-0.2934948</Z>
+          </CameraDirection>
+          <CameraRotation>
+            <Pitch>-17.0673</Pitch>
+            <Roll>-5.805186E-06</Roll>
+            <Yaw>157.8326</Yaw>
+          </CameraRotation>
+          <ButtonPromptText>Cash Drawer</ButtonPromptText>
+          <AutoCamera>true</AutoCamera>
+          <UseNavmesh>false</UseNavmesh>
+          <WithWarp>false</WithWarp>
+          <CanAccessItems>false</CanAccessItems>
+          <CanAccessWeapons>false</CanAccessWeapons>
           <CanAccessCash>true</CanAccessCash>
         </InventoryInteract>
       </InventoryInteracts>
