@@ -177,7 +177,7 @@
         <RestInteract>
           <Name>2862HillcrestAveRest1</Name>
           <Position>
-            <X>-666.8728</X>-666.8728f, 587.166f, 141.5957f), 221.7262f
+            <X>-666.8728</X>
             <Y>587.166</Y>
             <Z>141.5957</Z>
           </Position>
@@ -272,7 +272,7 @@
         <InventoryInteract>
           <Name>2862HillcrestAveInventory3</Name>
           <Position>
-            <X>-671.2198</X>-671.2198f, 580.9656f, 141.5739f), 131.8276f 
+            <X>-671.2198</X>
             <Y>580.9656</Y>
             <Z>141.5739</Z>
           </Position>
