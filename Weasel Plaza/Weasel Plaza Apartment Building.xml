@@ -1,0 +1,83 @@
+    <ApartmentBuilding>
+      <Name>Weasel Plaza</Name>
+      <FullName>Weasel Plaza</FullName>
+      <Description />
+      <IsEnabled>true</IsEnabled>
+      <IsTemporarilyClosed>false</IsTemporarilyClosed>
+      <BannerImagePath />
+      <RemoveBanner>false</RemoveBanner>
+      <IsBlipEnabled>true</IsBlipEnabled>
+      <MapIcon>162</MapIcon>
+      <MapIconColorString>White</MapIconColorString>
+      <MapIconScale>0.5</MapIconScale>
+      <MapIconRadius>1</MapIconRadius>
+      <MapOpenIconAlpha>1</MapOpenIconAlpha>
+      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
+      <EntrancePosition>
+        <X>-913.8973</X>
+        <Y>-455.6648</Y>
+        <Z>39.59985</Z>
+      </EntrancePosition>
+      <EntranceHeading>116.4933</EntranceHeading>
+      <OpenTime>0</OpenTime>
+      <CloseTime>24</CloseTime>
+      <InteriorID>-1</InteriorID>
+      <IsWalkup>false</IsWalkup>
+      <IsOnSPMap>false</IsOnSPMap>
+      <IsOnMPMap>true</IsOnMPMap>
+      <ShowsOnDirectory>true</ShowsOnDirectory>
+      <ShowsOnTaxi>true</ShowsOnTaxi>
+      <TypeName>Apartment Building</TypeName>
+      <SortOrder>999</SortOrder>
+      <ScannerFilePath />
+      <ActivateCells>4</ActivateCells>
+      <ActivateDistance>225</ActivateDistance>
+      <DisableRegularInteract>false</DisableRegularInteract>
+      <CameraPosition>
+        <X>-931.6027</X>
+        <Y>-469.5208</Y>
+        <Z>43.69972</Z>
+      </CameraPosition>
+      <CameraDirection>
+        <X>0.6736355</X>
+        <Y>0.7187704</Y>
+        <Z>-0.1720006</Z>
+      </CameraDirection>
+      <CameraRotation>
+        <Pitch>-9.904157</Pitch>
+        <Roll>7.366865E-06</Roll>
+        <Yaw>-43.14341</Yaw>
+      </CameraRotation>
+      <CanInteractWhenWanted>false</CanInteractWhenWanted>
+      <ShowsMarker>true</ShowsMarker>
+      <VendorPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VendorPosition>
+      <VendorHeading>0</VendorHeading>
+      <VehiclePreviewCameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraPosition>
+      <VehiclePreviewCameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraDirection>
+      <VehiclePreviewCameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </VehiclePreviewCameraRotation>
+      <VehicleDeliveryLocations />
+      <RegisterCash>3500</RegisterCash>
+      <NoEntryCam>false</NoEntryCam>
+      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
+      <ResidenceIDs>
+        <string>Weasel Plaza Apartment 26</string>
+        <string>Weasel Plaza Apartment 70</string>
+        <string>Weasel Plaza Apartment 101</string>
+      </ResidenceIDs>
+    </ApartmentBuilding>
