@@ -82,7 +82,8 @@ Richards Majestic Apartment 4 = TBD
 Richards Majestic Apartment 51 = TBD
 
 
-
+------
+Currently WIP:
 
 Tinsel Towers Apartment 29 = TBD
 
@@ -92,12 +93,13 @@ Tinsel Towers Apartment 45 = TBD
 
 
 ------
-Currently WIP:
+Weazel Plaza Building:
 
-Weasel Plaza Apartment 26 = WIP
 
-Weasel Plaza Apartment 70 = WIP
+Weasel Plaza Apartment 26 = Done
 
-Weasel Plaza Apartment 101 = WIP
+Weasel Plaza Apartment 70 = Done
+
+Weasel Plaza Apartment 101 = Done
 
 
