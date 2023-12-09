@@ -91,12 +91,13 @@ Tinsel Towers Apartment 42 = TBD
 Tinsel Towers Apartment 45 = TBD
 
 
+------
+Currently WIP:
 
+Weasel Plaza Apartment 26 = WIP
 
-Weasel Plaza Apartment 26 = TBD
+Weasel Plaza Apartment 70 = WIP
 
-Weasel Plaza Apartment 70 = TBD
-
-Weasel Plaza Apartment 101 = TBD
+Weasel Plaza Apartment 101 = WIP
 
 
