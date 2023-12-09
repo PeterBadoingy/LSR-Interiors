@@ -96,10 +96,10 @@ Tinsel Towers Apartment 45 = TBD
 Weazel Plaza Building:
 
 
-Weasel Plaza Apartment 26 = Done
+Weasel Plaza Apartment 26 = Done - RequestIPLs
 
-Weasel Plaza Apartment 70 = Done
+Weasel Plaza Apartment 70 = Done - RequestIPLs
 
-Weasel Plaza Apartment 101 = Done
+Weasel Plaza Apartment 101 = Done - RequestIPLs
 
 
