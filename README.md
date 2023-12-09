@@ -93,13 +93,13 @@ Tinsel Towers Apartment 45 = TBD
 
 
 ------
-Weazel Plaza Building:
+Weazel Plaza Building: NOT DONE _ DOES NOT LOAD IPLS
 
 
-Weasel Plaza Apartment 26 = Done - RequestIPLs
+Weasel Plaza Apartment 26 = WTF - RequestIPLs
 
-Weasel Plaza Apartment 70 = Done - RequestIPLs
+Weasel Plaza Apartment 70 = WTF - RequestIPLs
 
-Weasel Plaza Apartment 101 = Done - RequestIPLs
+Weasel Plaza Apartment 101 = WTF - RequestIPLs
 
 
