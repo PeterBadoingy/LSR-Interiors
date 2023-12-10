@@ -66,13 +66,30 @@ Eclipse Towers Apt 40 = TBD
 
 -----
 
-Eclipse Towers Penthouse 1 = TBD
+Eclipse Towers Penthouse 1 - Style = Modern = WIP
 
-Eclipse Towers Penthouse 2 = TBD
+Eclipse Towers Penthouse 2 - Style = Sharp = WIP
 
-Eclipse Towers Penthouse 3 = TBD
+Eclipse Towers Penthouse 3 - Style = Monochrome = WIP
 
+------
+Penthouse Styles:
 
+modern  =  interiorId = 227329, ipl = "apa_v_mp_h_01_a"
+
+moody = interiorId = 228097, ipl = "apa_v_mp_h_02_a"
+
+vibrant = interiorId = 228865, ipl = "apa_v_mp_h_03_a"
+
+sharp = interiorId = 229633, ipl = "apa_v_mp_h_04_a"
+
+monochrome = interiorId = 230401, ipl = "apa_v_mp_h_05_a"
+
+seductive = interiorId = 231169, ipl = "apa_v_mp_h_06_a"
+
+regal = interiorId = 231937, ipl = "apa_v_mp_h_07_a"
+           
+aqua = interiorId = 232705, ipl = "apa_v_mp_h_08_a"
 ------
 
 Richards Majestic Building:
