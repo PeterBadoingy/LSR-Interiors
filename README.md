@@ -31,7 +31,7 @@ Apartments
 
 3 Alta Street Apt 57 = TBD
 
-
+------
 
 
 4 Intergrity Way Apt 28 = TBD
@@ -41,7 +41,7 @@ Apartments
 4 Intergrity Way Apt 35 = TBD
 
 
-
+-----
 
 Del Perro Heights Apt 4 = TBD
 
@@ -50,7 +50,7 @@ Del Perro Heights Apt 7 = TBD
 Del Perro Heights Apt 20 = TBD
 
 
-
+------
 
 Eclipse Towers Apt 3 = TBD
 
@@ -64,7 +64,7 @@ Eclipse Towers Apt 40 = TBD
 
 
 
-
+-----
 
 Eclipse Towers Penthouse 1 = TBD
 
@@ -75,7 +75,7 @@ Eclipse Towers Penthouse 3 = TBD
 
 ------
 
-Currently WIP:
+Richards Majestic Building:
 
 Richards Majestic Apartment 2 = Done - RequestIPLs - ResidenceID = 17
 
@@ -89,7 +89,7 @@ Richards Majestic Apartment 51 = Done  - RequestIPLs  - ResidenceID = 16
 
 
 ------
-Tinsel Towers Building::
+Tinsel Towers Building:
 
 Tinsel Towers Apartment 29 = Done - RequestIPLs
 
