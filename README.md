@@ -80,7 +80,7 @@ Currently WIP:
 Richards Majestic Apartment 2 = SP version Loads - Skipping. 
 (Online Has Alt Apartment layout same as Tinsel Towers Apartment 42)
 
-Richards Majestic Apartment 4 = WIP
+Richards Majestic Apartment 4 = Done
 
 Richards Majestic Apartment 51 = WIP
 
