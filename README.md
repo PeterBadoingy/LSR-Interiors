@@ -77,15 +77,15 @@ Eclipse Towers Penthouse 3 = TBD
 
 Currently WIP:
 
-Richards Majestic Apartment 2 = Done
+Richards Majestic Apartment 2 = Done - RequestIPLs - ResidenceID = 17
 
 SP version does Load - No Death Fall. 
 Online Apt2 Has an Alt Apartment layout same as Tinsel Towers Apartment 42)
 
 
-Richards Majestic Apartment 4 = Done
+Richards Majestic Apartment 4 = Done - RequestIPLs - ResidenceID = 15
 
-Richards Majestic Apartment 51 = Done
+Richards Majestic Apartment 51 = Done  - RequestIPLs  - ResidenceID = 16
 
 
 ------
