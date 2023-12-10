@@ -90,6 +90,8 @@ seductive = interiorId = 231169, ipl = "apa_v_mp_h_06_a"
 regal = interiorId = 231937, ipl = "apa_v_mp_h_07_a"
            
 aqua = interiorId = 232705, ipl = "apa_v_mp_h_08_a"
+
+
 ------
 
 Richards Majestic Building:
