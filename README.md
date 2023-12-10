@@ -72,7 +72,7 @@ Eclipse Towers Penthouse 2 - Style = Sharp = WIP
 
 Eclipse Towers Penthouse 3 - Style = Monochrome = WIP
 
-------
+
 Penthouse Styles:
 
 modern  =  interiorId = 227329, ipl = "apa_v_mp_h_01_a"
