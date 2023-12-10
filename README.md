@@ -77,9 +77,11 @@ Eclipse Towers Penthouse 3 = TBD
 
 Currently WIP:
 
-Richards Majestic Apartment 2 = WIP
-SP version Loads No Death Fall. 
-(Online Has Alt Apartment layout same as Tinsel Towers Apartment 42)
+Richards Majestic Apartment 2 = Done
+
+SP version does Load - No Death Fall. 
+Online Apt2 Has an Alt Apartment layout same as Tinsel Towers Apartment 42)
+
 
 Richards Majestic Apartment 4 = Done
 
