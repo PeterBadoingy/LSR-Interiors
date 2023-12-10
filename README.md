@@ -66,14 +66,15 @@ Eclipse Towers Apt 40 = TBD
 
 -----
 
-Eclipse Towers Penthouse 1 - Style = Modern = WIP
+Eclipse Towers Penthouse 1 - Style = Modern = Done
 
 Eclipse Towers Penthouse 2 - Style = Sharp = WIP
 
 Eclipse Towers Penthouse 3 - Style = Monochrome = WIP
 
+------
+Penthouse Styles.
 
-Penthouse Styles:
 Penthouse 1:
 
 Modern  =  interiorId = 227329, ipl = "apa_v_mp_h_01_a"
@@ -91,6 +92,27 @@ Seductive = interiorId = 231169, ipl = "apa_v_mp_h_06_a"
 Regal = interiorId = 231937, ipl = "apa_v_mp_h_07_a"
            
 Aqua = interiorId = 232705, ipl = "apa_v_mp_h_08_a"
+------
+
+Penthouse 2:
+
+Modern = interiorId = 227585, ipl = "apa_v_mp_h_01_b"
+
+Moody = interiorId = 228353, ipl = "apa_v_mp_h_02_b"
+
+Vibrant = interiorId = 229121, ipl = "apa_v_mp_h_03_b"
+
+Sharp = interiorId = 229889, ipl = "apa_v_mp_h_04_b"
+
+Monochrome = interiorId = 230657, ipl = "apa_v_mp_h_05_b"
+
+Seductive = interiorId = 231425, ipl = "apa_v_mp_h_06_b"
+
+Regal = interiorId = 232193, ipl = "apa_v_mp_h_07_b"
+
+Aqua = interiorId = 232961, ipl = "apa_v_mp_h_08_b"
+
+
 
 
 ------
