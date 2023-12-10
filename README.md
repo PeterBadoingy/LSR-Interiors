@@ -73,23 +73,25 @@ Eclipse Towers Penthouse 2 = TBD
 Eclipse Towers Penthouse 3 = TBD
 
 
+------
 
+Currently WIP:
 
-Richards Majestic Apartment 2 = TBD
+Richards Majestic Apartment 2 = WIP
 
-Richards Majestic Apartment 4 = TBD
+Richards Majestic Apartment 4 = WIP
 
-Richards Majestic Apartment 51 = TBD
+Richards Majestic Apartment 51 = WIP
 
 
 ------
-Currently WIP:
+Tinsel Towers Building::
 
-Tinsel Towers Apartment 29 = TBD
+Tinsel Towers Apartment 29 = Done - RequestIPLs
 
-Tinsel Towers Apartment 42 = TBD
+Tinsel Towers Apartment 42 = Done - RequestIPLs
 
-Tinsel Towers Apartment 45 = TBD
+Tinsel Towers Apartment 45 = Done - RequestIPLs
 
 
 ------
