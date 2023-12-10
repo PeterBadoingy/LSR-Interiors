@@ -23,7 +23,7 @@
       <CloseTime>24</CloseTime>
       <InteriorID>-1</InteriorID>
       <IsWalkup>false</IsWalkup>
-      <IsOnSPMap>true</IsOnSPMap>
+      <IsOnSPMap>false</IsOnSPMap>
       <IsOnMPMap>true</IsOnMPMap>
       <ShowsOnDirectory>true</ShowsOnDirectory>
       <ShowsOnTaxi>true</ShowsOnTaxi>
