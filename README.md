@@ -75,21 +75,21 @@ Eclipse Towers Penthouse 3 - Style = Monochrome = WIP
 
 Penthouse Styles:
 
-modern  =  interiorId = 227329, ipl = "apa_v_mp_h_01_a"
+Modern  =  interiorId = 227329, ipl = "apa_v_mp_h_01_a"
 
-moody = interiorId = 228097, ipl = "apa_v_mp_h_02_a"
+Moody = interiorId = 228097, ipl = "apa_v_mp_h_02_a"
 
-vibrant = interiorId = 228865, ipl = "apa_v_mp_h_03_a"
+Vibrant = interiorId = 228865, ipl = "apa_v_mp_h_03_a"
 
-sharp = interiorId = 229633, ipl = "apa_v_mp_h_04_a"
+Sharp = interiorId = 229633, ipl = "apa_v_mp_h_04_a"
 
-monochrome = interiorId = 230401, ipl = "apa_v_mp_h_05_a"
+Monochrome = interiorId = 230401, ipl = "apa_v_mp_h_05_a"
 
-seductive = interiorId = 231169, ipl = "apa_v_mp_h_06_a"
+Seductive = interiorId = 231169, ipl = "apa_v_mp_h_06_a"
 
-regal = interiorId = 231937, ipl = "apa_v_mp_h_07_a"
+Regal = interiorId = 231937, ipl = "apa_v_mp_h_07_a"
            
-aqua = interiorId = 232705, ipl = "apa_v_mp_h_08_a"
+Aqua = interiorId = 232705, ipl = "apa_v_mp_h_08_a"
 
 
 ------
