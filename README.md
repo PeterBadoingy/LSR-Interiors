@@ -66,11 +66,11 @@ Eclipse Towers Apt 40 = TBD
 
 -----
 
-Eclipse Towers Penthouse 1 - Style = Modern = Done
+Eclipse Towers Penthouse 1 - Style = Modern = Done - RequestIPLs - ResidenceID = 18
 
-Eclipse Towers Penthouse 2 - Style = Sharp = Done
+Eclipse Towers Penthouse 2 - Style = Sharp = Done - RequestIPLs - ResidenceID = 19
 
-Eclipse Towers Penthouse 3 - Style = Monochrome = WIP
+Eclipse Towers Penthouse 3 - Style = Monochrome = Done - RequestIPLs - ResidenceID = 20
 
 ------
 Penthouse Styles.
