@@ -30,7 +30,7 @@
       <IsWeaponRestricted>false</IsWeaponRestricted>
       <InteractPoints>
         <InteriorInteract xsi:type="ExitInteriorInteract">
-          <Name>RichMajApt51Exit1</Name>
+          <Name>RichMajApt2Exit1</Name>
           <Position>
             <X>-919.8359</X>
             <Y>-368.9409</Y>
