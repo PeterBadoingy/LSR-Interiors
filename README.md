@@ -92,6 +92,7 @@ Seductive = interiorId = 231169, ipl = "apa_v_mp_h_06_a"
 Regal = interiorId = 231937, ipl = "apa_v_mp_h_07_a"
            
 Aqua = interiorId = 232705, ipl = "apa_v_mp_h_08_a"
+
 ------
 
 Penthouse 2:
@@ -111,9 +112,6 @@ Seductive = interiorId = 231425, ipl = "apa_v_mp_h_06_b"
 Regal = interiorId = 232193, ipl = "apa_v_mp_h_07_b"
 
 Aqua = interiorId = 232961, ipl = "apa_v_mp_h_08_b"
-
-
-
 
 ------
 
