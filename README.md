@@ -52,15 +52,22 @@ Del Perro Heights Apt 20 = TBD
 
 ------
 
-Eclipse Towers Apt 3 = TBD
+Eclipse Towers:
 
-Eclipse Towers Apt 5 = TBD
+Eclipse Towers Apt 3 = Done - RequestIPLs - ResidenceID = 21 - Alt Interior.
 
-Eclipse Towers Apt 9 = TBD
+Eclipse Towers Apt 5 = Done - RequestIPLs - ResidenceID = 22
 
-Eclipse Towers Apt 31 = TBD
+Apartments 3 and 5 Interior IDs matched those of Penthouses
+Using  Custom Numbers.
 
-Eclipse Towers Apt 40 = TBD
+-----
+
+Eclipse Towers Apt 9 = Done - RequestIPLs - ResidenceID = 23
+
+Eclipse Towers Apt 31 = Done - RequestIPLs - ResidenceID = 24
+
+Eclipse Towers Apt 40 = Done - RequestIPLs - ResidenceID = 25
 
 
 
@@ -137,7 +144,7 @@ Aqua = interiorId = 233217, ipl = "apa_v_mp_h_08_c"
 
 Richards Majestic Building:
 
-Richards Majestic Apartment 2 = Done - RequestIPLs - ResidenceID = 17
+Richards Majestic Apartment 2 = Done - RequestIPLs - ResidenceID = 17 - Alt Interior.
 
 SP version does Load - No Death Fall. 
 Online Apt2 Has an Alt Apartment layout same as Tinsel Towers Apartment 42)
