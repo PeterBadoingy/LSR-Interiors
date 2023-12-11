@@ -1,31 +1,9 @@
 # LSR-Interiors
 LSR Interiors residence setups
 
-Stilt/Houses
-
-2044 North Conker Avenue - Done
-
-2045 North Conker Avenue - Done
-
-2113 Mad Wayne Thunder - Done
-
-2117 Milton Road - Done
-
-2862 Hillcrest Avenue - Done
-
-2866 Hillcrest Avenue - Done - RequestIPLs
-
-2868 Hillcrest Avenue - Done
-
-2874 Hillcrest Avenue - Done
-
-3655 Wild Oats Drive - Done
-
-3677 Whispymound Drive - Done
-
 -------------------------
 
-Apartments
+Online Apartments
 
 3 Alta Street Apt 10 = TBD
 
@@ -175,4 +153,27 @@ Weasel Plaza Apartment 70 = Done - RequestIPLs
 
 Weasel Plaza Apartment 101 = Done - RequestIPLs
 
+-------
+
+Stilt/Houses
+
+2044 North Conker Avenue - Done
+
+2045 North Conker Avenue - Done
+
+2113 Mad Wayne Thunder - Done
+
+2117 Milton Road - Done
+
+2862 Hillcrest Avenue - Done
+
+2866 Hillcrest Avenue - Done - RequestIPLs
+
+2868 Hillcrest Avenue - Done
+
+2874 Hillcrest Avenue - Done
+
+3655 Wild Oats Drive - Done
+
+3677 Whispymound Drive - Done
 
