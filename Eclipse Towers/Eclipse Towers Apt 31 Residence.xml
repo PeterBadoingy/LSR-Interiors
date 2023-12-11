@@ -1,0 +1,85 @@
+    <Residence>
+      <Name>Eclipse Towers, Apt 31</Name>
+      <FullName>Eclipse Towers, Apt 31</FullName>
+      <Description />
+      <IsEnabled>true</IsEnabled>
+      <IsTemporarilyClosed>false</IsTemporarilyClosed>
+      <BannerImagePath />
+      <RemoveBanner>false</RemoveBanner>
+      <IsBlipEnabled>false</IsBlipEnabled>
+      <MapIcon>350</MapIcon>
+      <MapIconColorString>White</MapIconColorString>
+      <MapIconScale>0.5</MapIconScale>
+      <MapIconRadius>1</MapIconRadius>
+      <MapOpenIconAlpha>1</MapOpenIconAlpha>
+      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
+      <EntrancePosition>
+        <X>-773.63</X>
+        <Y>313.08</Y>
+        <Z>85.7</Z>
+      </EntrancePosition>
+      <EntranceHeading>180</EntranceHeading>
+      <OpenTime>0</OpenTime>
+      <CloseTime>24</CloseTime>
+      <InteriorID>144385</InteriorID>
+      <IsWalkup>false</IsWalkup>
+      <IsOnSPMap>false</IsOnSPMap>
+      <IsOnMPMap>true</IsOnMPMap>
+      <ShowsOnDirectory>true</ShowsOnDirectory>
+      <ShowsOnTaxi>true</ShowsOnTaxi>
+      <TypeName>For Sale/Rental</TypeName>
+      <SortOrder>999</SortOrder>
+      <ScannerFilePath />
+      <ActivateCells>4</ActivateCells>
+      <ActivateDistance>225</ActivateDistance>
+      <DisableRegularInteract>false</DisableRegularInteract>
+      <CameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraPosition>
+      <CameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </CameraDirection>
+      <CameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </CameraRotation>
+      <CanInteractWhenWanted>false</CanInteractWhenWanted>
+      <ShowsMarker>true</ShowsMarker>
+      <VendorPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VendorPosition>
+      <VendorHeading>0</VendorHeading>
+      <VehiclePreviewCameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraPosition>
+      <VehiclePreviewCameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraDirection>
+      <VehiclePreviewCameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </VehiclePreviewCameraRotation>
+      <VehicleDeliveryLocations />
+      <RegisterCash>3500</RegisterCash>
+      <NoEntryCam>false</NoEntryCam>
+      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
+      <RentalDays>28</RentalDays>
+      <RentalFee>5000</RentalFee>
+      <PurchasePrice>1200000</PurchasePrice>
+      <SalesPrice>980000</SalesPrice>
+      <ResidenceID>24</ResidenceID>
+      <HasHeaderApartmentBuilding>true</HasHeaderApartmentBuilding>
+      <DisableInteractAfterPurchase>false</DisableInteractAfterPurchase>
+    </Residence>
