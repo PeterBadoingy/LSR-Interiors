@@ -30,7 +30,7 @@
       <IsWeaponRestricted>false</IsWeaponRestricted>
       <InteractPoints>
         <InteriorInteract xsi:type="ExitInteriorInteract">
-          <Name>EclTowPentHo2Exit1</Name>
+          <Name>EclTowPentHo3Exit1</Name>
           <Position>
             <X>-781.8493</X>
             <Y>318.2509</Y>
@@ -59,7 +59,7 @@
           <WithWarp>false</WithWarp>
         </InteriorInteract>
         <InteriorInteract xsi:type="StandardInteriorInteract">
-          <Name>EclTowPentHo2Std1</Name>
+          <Name>EclTowPentHo3Std1</Name>
           <Position>
             <X>-784.3889</X>
             <Y>337.233</Y>
@@ -88,7 +88,7 @@
           <WithWarp>false</WithWarp>
         </InteriorInteract>
         <InteriorInteract xsi:type="ToiletInteract">
-          <Name>EclTowPentHo2Toilet1</Name>
+          <Name>EclTowPentHo3Toilet1</Name>
           <Position>
             <X>-807.2319</X>
             <Y>332.2801</Y>
@@ -118,7 +118,7 @@
           <IsStanding>false</IsStanding>
         </InteriorInteract>
         <InteriorInteract xsi:type="SinkInteract">
-          <Name>EclTowPentHo2Sink1</Name>
+          <Name>EclTowPentHo3Sink1</Name>
           <Position>
             <X>-804.8542</X>
             <Y>332.3999</Y>
@@ -148,7 +148,7 @@
           <IsScenario>false</IsScenario>
         </InteriorInteract>
         <InteriorInteract xsi:type="SinkInteract">
-          <Name>EclTowPentHo2Sink2</Name>
+          <Name>EclTowPentHo3Sink2</Name>
           <Position>
             <X>-806.2471</X>
             <Y>332.4004</Y>
@@ -187,7 +187,7 @@
       </ClearPositions>
       <RestInteracts>
         <RestInteract>
-          <Name>EclTowPentHo2Rest1</Name>
+          <Name>EclTowPentHo3Rest1</Name>
           <Position>
             <X>-795.6975</X>
             <Y>335.1445</Y>
@@ -222,7 +222,7 @@
       </RestInteracts>
       <OutfitInteracts>
         <OutfitInteract>
-          <Name>EclTowPentHo2Outfit1</Name>
+          <Name>EclTowPentHo3Outfit1</Name>
           <Position>
             <X>-797.8123</X>
             <Y>327.7688</Y>
@@ -253,7 +253,7 @@
       </OutfitInteracts>
       <InventoryInteracts>
         <InventoryInteract>
-          <Name>EclTowPentHo2Inventory1</Name>
+          <Name>EclTowPentHo3Inventory1</Name>
           <Position>
             <X>-782.1838</X>
             <Y>325.5741</Y>
@@ -292,7 +292,7 @@
           <Description>Access Drinks</Description>
         </InventoryInteract>
         <InventoryInteract>
-          <Name>EclTowPentHo2Inventory2</Name>
+          <Name>EclTowPentHo3Inventory2</Name>
           <Position>
             <X>-784.17</X>
             <Y>325.5173</Y>
@@ -332,7 +332,7 @@
           <Description>Access Food</Description>
         </InventoryInteract>
         <InventoryInteract>
-          <Name>EclTowPentHo2Inventory3</Name>
+          <Name>EclTowPentHo3Inventory3</Name>
           <Position>
             <X>-782.474</X>
             <Y>329.582</Y>
@@ -373,7 +373,7 @@
           <Description />
         </InventoryInteract>
         <InventoryInteract>
-          <Name>EclTowPentHo2Inventory4</Name>
+          <Name>EclTowPentHo3Inventory4</Name>
           <Position>
             <X>-800.0526</X>
             <Y>338.4295</Y>
@@ -410,7 +410,7 @@
           <Description />
         </InventoryInteract>
         <InventoryInteract>
-          <Name>EclTowPentHo2Inventory5</Name>
+          <Name>EclTowPentHo3Inventory5</Name>
           <Position>
             <X>-796.3978</X>
             <Y>328.1177</Y>
