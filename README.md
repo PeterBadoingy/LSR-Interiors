@@ -1,13 +1,13 @@
 # LSR-Interiors
 LSR Interiors residence setups
-
+DoneDoneDoneDoneDoneDoneDoneDoneDoneDoneDoneDone
 -------------------------
 
 Online Apartments
 
-3 Alta Street Apt 10 = WIP
+3 Alta Street Apt 10 = Done
 
-3 Alta Street Apt 57 = WIP
+3 Alta Street Apt 57 = Done
 
 ------
 
