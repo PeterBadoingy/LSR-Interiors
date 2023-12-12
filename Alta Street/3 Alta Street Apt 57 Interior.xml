@@ -28,7 +28,7 @@
       <IsWeaponRestricted>false</IsWeaponRestricted>
       <InteractPoints>
         <InteriorInteract xsi:type="ExitInteriorInteract">
-          <Name>AltaStApt10Exit1</Name>
+          <Name>AltaStApt57Exit1</Name>
           <Position>
             <X>-279.4127</X>
             <Y>-941.5223</Y>
@@ -57,7 +57,7 @@
           <WithWarp>false</WithWarp>
         </InteriorInteract>
         <InteriorInteract xsi:type="StandardInteriorInteract">
-          <Name>AltaStApt10Std1</Name>
+          <Name>AltaStApt57Std1</Name>
           <Position>
             <X>-284.29</X>
             <Y>-956.007</Y>
@@ -86,7 +86,7 @@
           <WithWarp>false</WithWarp>
         </InteriorInteract>
         <InteriorInteract xsi:type="ToiletInteract">
-          <Name>AltaStApt10Toilet1</Name>
+          <Name>AltaStApt57Toilet1</Name>
           <Position>
             <X>-275.8356</X>
             <Y>-950.6735</Y>
@@ -116,7 +116,7 @@
           <IsStanding>false</IsStanding>
         </InteriorInteract>
         <InteriorInteract xsi:type="SinkInteract">
-          <Name>AltaStApt10Sink1</Name>
+          <Name>AltaStApt57Sink1</Name>
           <Position>
             <X>-276.6593</X>
             <Y>-952.9739</Y>
@@ -146,7 +146,7 @@
           <IsScenario>false</IsScenario>
         </InteriorInteract>
         <InteriorInteract xsi:type="SinkInteract">
-          <Name>AltaStApt10Sink2</Name>
+          <Name>AltaStApt57Sink2</Name>
           <Position>
             <X>-276.1429</X>
             <Y>-951.614</Y>
@@ -185,7 +185,7 @@
       </ClearPositions>
       <RestInteracts>
         <RestInteract>
-          <Name>AltaStApt10Rest1</Name>
+          <Name>AltaStApt57Rest1</Name>
           <Position>
             <X>-282.7987</X>
             <Y>-959.9765</Y>
@@ -220,7 +220,7 @@
       </RestInteracts>
       <OutfitInteracts>
         <OutfitInteract>
-          <Name>AltaStApt10Outfit1</Name>
+          <Name>AltaStApt57Outfit1</Name>
           <Position>
             <X>-277.9756</X>
             <Y>-961.2343</Y>
@@ -251,7 +251,7 @@
       </OutfitInteracts>
       <InventoryInteracts>
         <InventoryInteract>
-          <Name>AltaStApt10Inventory1</Name>
+          <Name>AltaStApt57Inventory1</Name>
           <Position>
             <X>-270.2449</X>
             <Y>-954.5553</Y>
@@ -290,7 +290,7 @@
           <Description>Access Drinks</Description>
         </InventoryInteract>
         <InventoryInteract>
-          <Name>AltaStApt10Inventory2</Name>
+          <Name>AltaStApt57Inventory2</Name>
           <Position>
             <X>-272.9691</X>
             <Y>-953.4411</Y>
@@ -330,7 +330,7 @@
           <Description>Access Food</Description>
         </InventoryInteract>
         <InventoryInteract>
-          <Name>AltaStApt10Inventory3</Name>
+          <Name>AltaStApt57Inventory3</Name>
           <Position>
             <X>-274.9763</X>
             <Y>-957.1364</Y>
@@ -371,7 +371,7 @@
           <Description />
         </InventoryInteract>
         <InventoryInteract>
-          <Name>AltaStApt10Inventory4</Name>
+          <Name>AltaStApt57Inventory4</Name>
           <Position>
             <X>-274.5255</X>
             <Y>-967.9532</Y>
@@ -408,7 +408,7 @@
           <Description />
         </InventoryInteract>
         <InventoryInteract>
-          <Name>AltaStApt10Inventory5</Name>
+          <Name>AltaStApt57Inventory5</Name>
           <Position>
             <X>-272.9438</X>
             <Y>-950.5449</Y>
