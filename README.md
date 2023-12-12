@@ -5,9 +5,9 @@ LSR Interiors residence setups
 
 Online Apartments
 
-3 Alta Street Apt 10 = TBD
+3 Alta Street Apt 10 = WIP
 
-3 Alta Street Apt 57 = TBD
+3 Alta Street Apt 57 = WIP
 
 ------
 
