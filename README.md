@@ -21,7 +21,7 @@ Online Apartments
 
 -----
 
-Del Perro Heights Apt 4 = Included Works.
+Del Perro Heights Apt 4 = WIP - Alt Apartment
 
 Del Perro Heights Apt 7 = Included Works.
 
