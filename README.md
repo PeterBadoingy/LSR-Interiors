@@ -5,9 +5,9 @@ DoneDoneDoneDoneDoneDoneDoneDoneDoneDoneDoneDone
 
 Online Apartments
 
-3 Alta Street Apt 10 = Done
+3 Alta Street Apt 10 = Done - ResidenceID = 30
 
-3 Alta Street Apt 57 = Done
+3 Alta Street Apt 57 = Done - ResidenceID = 31
 
 ------
 
