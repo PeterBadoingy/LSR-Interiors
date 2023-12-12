@@ -12,7 +12,7 @@ Online Apartments
 ------
 
 
-4 Intergrity Way Apt 28 = Included Works - Alt Apartment - WIP
+4 Intergrity Way Apt 28 = Included Works - Alt Apartment - Done - ResidenceID = 29
 
 4 Intergrity Way Apt 30 = Included Works.
 
@@ -21,7 +21,7 @@ Online Apartments
 
 -----
 
-Del Perro Heights Apt 4 = Included Works - Alt Apartment - Done - ResidenceID = 29
+Del Perro Heights Apt 4 = Included Works - Alt Apartment - Done - ResidenceID = 26
 
 Del Perro Heights Apt 7 = Included Works.
 
