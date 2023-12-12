@@ -21,11 +21,11 @@ Online Apartments
 
 -----
 
-Del Perro Heights Apt 4 = WIP - Alt Apartment
+Del Perro Heights Apt 4 = Included Works - Alt Apartment - Done - ResidenceID = 26
 
 Del Perro Heights Apt 7 = Included Works.
 
-Del Perro Heights Apt 20 = Done - RequestIPLs - ResidenceID = 26
+Del Perro Heights Apt 20 = Done - RequestIPLs - ResidenceID = 27
 
 
 ------
