@@ -1,0 +1,82 @@
+    <ApartmentBuilding>
+      <Name>3 Alta Street</Name>
+      <FullName>3 Alta Street</FullName>
+      <Description />
+      <IsEnabled>true</IsEnabled>
+      <IsTemporarilyClosed>false</IsTemporarilyClosed>
+      <BannerImagePath />
+      <RemoveBanner>false</RemoveBanner>
+      <IsBlipEnabled>true</IsBlipEnabled>
+      <MapIcon>162</MapIcon>
+      <MapIconColorString>White</MapIconColorString>
+      <MapIconScale>0.5</MapIconScale>
+      <MapIconRadius>1</MapIconRadius>
+      <MapOpenIconAlpha>1</MapOpenIconAlpha>
+      <MapClosedIconAlpha>0.25</MapClosedIconAlpha>
+      <EntrancePosition>
+        <X>-261.9663</X>
+        <Y>-970.8594</Y>
+        <Z>31.21996</Z>
+      </EntrancePosition>
+      <EntranceHeading>203.518</EntranceHeading>
+      <OpenTime>0</OpenTime>
+      <CloseTime>24</CloseTime>
+      <InteriorID>-1</InteriorID>
+      <IsWalkup>false</IsWalkup>
+      <IsOnSPMap>true</IsOnSPMap>
+      <IsOnMPMap>true</IsOnMPMap>
+      <ShowsOnDirectory>true</ShowsOnDirectory>
+      <ShowsOnTaxi>true</ShowsOnTaxi>
+      <TypeName>Apartment Building</TypeName>
+      <SortOrder>999</SortOrder>
+      <ScannerFilePath />
+      <ActivateCells>4</ActivateCells>
+      <ActivateDistance>225</ActivateDistance>
+      <DisableRegularInteract>false</DisableRegularInteract>
+      <CameraPosition>
+        <X>-258.0724</X>
+        <Y>-993.9235</Y>
+        <Z>39.27498</Z>
+      </CameraPosition>
+      <CameraDirection>
+        <X>-0.08690932</X>
+        <Y>0.9330165</Y>
+        <Z>-0.3491804</Z>
+      </CameraDirection>
+      <CameraRotation>
+        <Pitch>-20.43719</Pitch>
+        <Roll>1.742524E-05</Roll>
+        <Yaw>5.321674</Yaw>
+      </CameraRotation>
+      <CanInteractWhenWanted>false</CanInteractWhenWanted>
+      <ShowsMarker>true</ShowsMarker>
+      <VendorPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VendorPosition>
+      <VendorHeading>0</VendorHeading>
+      <VehiclePreviewCameraPosition>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraPosition>
+      <VehiclePreviewCameraDirection>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </VehiclePreviewCameraDirection>
+      <VehiclePreviewCameraRotation>
+        <Pitch>0</Pitch>
+        <Roll>0</Roll>
+        <Yaw>0</Yaw>
+      </VehiclePreviewCameraRotation>
+      <VehicleDeliveryLocations />
+      <RegisterCash>3500</RegisterCash>
+      <NoEntryCam>false</NoEntryCam>
+      <IgnoreEntranceInteract>false</IgnoreEntranceInteract>
+      <ResidenceIDs>
+        <int>30</int>
+        <int>31</int>
+      </ResidenceIDs>
+    </ApartmentBuilding>
