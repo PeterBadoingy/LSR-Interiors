@@ -21,11 +21,11 @@ Online Apartments
 
 -----
 
-Del Perro Heights Apt 4 = TBD
+Del Perro Heights Apt 4 = Included Works.
 
-Del Perro Heights Apt 7 = TBD
+Del Perro Heights Apt 7 = Included Works.
 
-Del Perro Heights Apt 20 = TBD
+Del Perro Heights Apt 20 = Done - RequestIPLs - ResidenceID = 26
 
 
 ------
