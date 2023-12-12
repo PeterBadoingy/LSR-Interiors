@@ -12,7 +12,7 @@ Online Apartments
 ------
 
 
-4 Intergrity Way Apt 28 = TBD
+4 Intergrity Way Apt 28 = Included Works - Alt Apartment - WIP
 
 4 Intergrity Way Apt 30 = TBD
 
