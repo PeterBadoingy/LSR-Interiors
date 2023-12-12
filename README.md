@@ -16,7 +16,7 @@ Online Apartments
 
 4 Intergrity Way Apt 30 = Included Works.
 
-4 Intergrity Way Apt 35 = WIP
+4 Intergrity Way Apt 35 = Done - RequestIPLs - ResidenceID = 28
 
 
 -----
